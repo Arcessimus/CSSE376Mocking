@@ -1,0 +1,5 @@
+1) Create a fake database, set it up to expect certain calls, set it up to return a given value for those calls, then set up the test method to use the fake database.
+
+2)throws an Unordered method call exception. fix it by switching the two numbers.
+
+3) You put it after.
